@@ -6,6 +6,6 @@ created this short project after learning jdbc, jsp and servlet concept
 
 # Features:
 
-A user can create coupons
-A user can find the details of coupon
-A user can create a product and apply the coupon for price discount
+1. A user can create coupons
+2. A user can find the details of coupon
+3. A user can create a product and apply the coupon for price discount
